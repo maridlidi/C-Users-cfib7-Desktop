@@ -1,0 +1,7 @@
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\ProjetsPratiques\bin\Debug\ProjetsPratiques.exe.config
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\ProjetsPratiques\bin\Debug\ProjetsPratiques.exe
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\ProjetsPratiques\bin\Debug\ProjetsPratiques.pdb
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\ProjetsPratiques\obj\Debug\ProjetsPratiques.csprojResolveAssemblyReference.cache
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\ProjetsPratiques\obj\Debug\ProjetsPratiques.csproj.CoreCompileInputs.cache
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\ProjetsPratiques\obj\Debug\ProjetsPratiques.exe
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\ProjetsPratiques\obj\Debug\ProjetsPratiques.pdb

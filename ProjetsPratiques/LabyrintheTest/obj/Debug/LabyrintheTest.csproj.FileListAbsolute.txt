@@ -1,0 +1,2 @@
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\LabyrintheTest\obj\Debug\LabyrintheTest.csprojResolveAssemblyReference.cache
+C:\Users\Marie Eve\source\repos\ProjetsPratiques\LabyrintheTest\obj\Debug\LabyrintheTest.csproj.CoreCompileInputs.cache
